@@ -1,0 +1,15 @@
+# Thư mục build (file tạm của Gradle)
+build/
+
+# Cấu hình IDE (IntelliJ/Android Studio)
+.idea/
+
+# File cấu hình cục bộ
+local.properties
+
+# File log hoặc file tạm khác (nếu có)
+*.log
+*.tmp
+
+# File hệ thống
+.DS_Store
