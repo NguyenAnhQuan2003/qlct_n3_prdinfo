@@ -11,6 +11,7 @@ import com.example.qlct_n3.base.DataBaseManager;
 import com.example.qlct_n3.databinding.ActivityMainBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+//Mình tạo sẵn Repo rồi với connectDB rồi, anh em xem comments code xem luồng code tham khảo xem h chạy như nào mình vận dụng theo nhé!
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
 
