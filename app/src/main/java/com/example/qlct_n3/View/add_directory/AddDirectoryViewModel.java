@@ -9,6 +9,7 @@ import androidx.lifecycle.ViewModel;
 import com.example.qlct_n3.Model.DanhMuc;
 import com.example.qlct_n3.base.DataBaseManager;
 
+
 public class AddDirectoryViewModel extends ViewModel {
     private MutableLiveData<Long> _blDanhMuc = new MutableLiveData<>();
     public LiveData<Long> blDanhMuc(){

@@ -5,6 +5,7 @@
     android:background="@drawable/boder_item_menu"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
+
     <Space
         android:layout_width="32dp"
         android:layout_height="wrap_content"/>
