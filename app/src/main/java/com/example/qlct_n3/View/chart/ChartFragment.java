@@ -34,6 +34,7 @@ import java.util.stream.Collectors;
 import kotlin.Unit;
 import kotlin.jvm.functions.Function1;
 
+
 public class ChartFragment extends Fragment {
     private static final String TAG = "ChartFragment";
     private ChartViewModel viewModel;

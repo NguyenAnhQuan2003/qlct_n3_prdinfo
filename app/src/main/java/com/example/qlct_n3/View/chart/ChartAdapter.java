@@ -12,6 +12,7 @@ import com.example.qlct_n3.databinding.ItemSpendingBinding;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class ChartAdapter extends RecyclerView.Adapter<ChartAdapter.ViewHoder> {
     private List<SpendingInChart> listAdapter = new ArrayList<>();
 

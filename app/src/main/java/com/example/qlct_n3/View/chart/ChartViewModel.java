@@ -11,6 +11,7 @@ import com.example.qlct_n3.base.DataBaseManager;
 
 import java.util.List;
 
+
 public class ChartViewModel extends ViewModel {
 
     private MutableLiveData<List<SpendingInChart>> _SpendingInChartChi = new MutableLiveData<>();
